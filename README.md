@@ -43,4 +43,6 @@
 <br/>
 <br/>
 
+[![committers.top badge](https://user-badge.committers.top/ethiopia/beka-birhanu.svg)](https://user-badge.committers.top/ethiopia/beka-birhanu)
+
 ![Beka Birhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=beka-birhanu&show_icons=true&theme=radical)
