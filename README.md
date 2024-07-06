@@ -40,9 +40,17 @@
 <a href="https://getbootstrap.com/"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="tailwind" width="40" height="40"/> </a>
 <br/>
-<br/>
+###
 <br/>
 
-[![committers.top badge](https://user-badge.committers.top/ethiopia/beka-birhanu.svg)](https://user-badge.committers.top/ethiopia/beka-birhanu)
+![committers.top badge](https://user-badge.committers.top/ethiopia/beka-birhanu.svg)
 
-![Beka Birhanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=beka-birhanu&show_icons=true&theme=radical)
+<div align="center">
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beka-birhanu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beka-birhanu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+  <img src="https://streak-stats.demolab.com?user=beka-birhanu&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="270" alt="streak graph"  />
+</div>
