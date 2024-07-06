@@ -6,7 +6,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" height="100" />
   </div>
 </div>
-<hr/>
+<br/>
 <h3 align="left">📬 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/beka-birhanu-atomsa/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamiru-alemnew/"></a>
@@ -18,14 +18,14 @@
   <ul>
     <li>My own project</li>
   </ul>
-
+<br/>
 <h3 align="left">🌱 I’m currently learning:</h3>
   <ul>
     <li>Data Structures and Algorithms</li>
     <li>Advanced C# ⭐</li>
     <li>Design patterns</li>
   </ul>
-
+<br/>
 <h3 align="center">💼 Technologies I work with on the daily:</h3>
 <hr/>
 <div align="center">
@@ -40,7 +40,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </div>
-
+<br/>
 <h3 align="center">💼 Technologies I am very familiar with:</h3>
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -53,14 +53,13 @@
   <a href="https://tailwindcss.com/"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="tailwind" width="40" height="40"/> </a>
 </div>
 <br/>
+<br/>
 <div align="center">
   <img src="https://user-badge.committers.top/ethiopia/beka-birhanu.svg" alt="committers.top badge"/>
 </div>
-<hr/>
-<div align="left">
+<br/>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beka-birhanu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="200" alt="stats graph"/>
-</div>
-<div align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=beka-birhanu&theme=tokyonight&hide_border=false" height="200" alt="streak graph"/>
 </div>
 <br/>
