@@ -59,10 +59,11 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beka-birhanu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="200" alt="stats graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beka-birhanu&theme=tokyonight&hide_border=false" height="200" alt="streak graph"/>
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beka-birhanu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beka-birhanu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beka-birhanu&theme=tokyonight" height="200" alt="summary card"/>
+
+###
+  <img src="https://streak-stats.demolab.com?user=beka-birhanu&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="270" alt="streak graph"  />
 </div>
