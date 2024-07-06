@@ -1,19 +1,24 @@
-<div align="center">
   <h1 align="center">Hi there, I'm Beka Birhanu 👋</h1>
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" height="100" />
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+a+Full-stack+Developer;I'm+looking+for+a+job;Competitive+Programmer;Optimization+'F R E A K '" alt="Typing Animation"></a>
-    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" height="100" />
-  </div>
-</div>
-<br/>
+   <p align="left">I'm a Student Software Engineer 💻. I love working with websites. I am currently seeking opportunities to enhance technical skills and gain practical experience in the field. <em>I aspire to become a Machine Learning Engineer</em>.</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/beka-birhanu-atomsa/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamiru-alemnew/"></a>
   <a href="https://leetcode.com/u/beka_birhanu/"><img src="https://img.shields.io/badge/-Leetcode-FFA500?style=flat&logo=leetcode&logoColor=white"></a>
   <a href="https://codeforces.com/profile/beka-birhanu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="beka-birhanu" height="30" width="40" /></a>
 </div>
-<br/>
-<table align="center">
+
+###
+
+<h3 align="left">🌱 I’m currently learning:</h3>
+  <ul>
+    <li>Data Structures and Algorithms</li>
+    <li>Advanced C# ⭐</li>
+    <li>Design patterns</li>
+  </ul>
+
+###
+
+<h3 align="left">💼 Technologies I work with on the daily:</h3>
+<table align="left">
   <tr>
     <td align="center">
       <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -56,6 +61,12 @@
       </a>
     </td>
   </tr>
+</table>
+
+###
+
+<h3 align="left">💼 Technologies I am very familiar with:</h3>
+ <table align="left">
   <tr>
     <td align="center">
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -112,18 +123,17 @@
   </tr>
 </table>
 
-<br/>
-<br/>
-<div align="center">
+###
+
+<div align="left">
   <img src="https://user-badge.committers.top/ethiopia/beka-birhanu.svg" alt="committers.top badge"/>
 </div>
 <br/>
-<div align="center">
- <div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=beka-birhanu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beka-birhanu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
   <img src="https://streak-stats.demolab.com?user=beka-birhanu&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="270" alt="streak graph"  />
-</div>
