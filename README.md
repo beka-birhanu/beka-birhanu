@@ -239,12 +239,10 @@
 
 <br />
 
-<div align="center">
-  <img
-    src="https://user-badge.committers.top/ethiopia/beka-birhanu.svg"
-    alt="committers.top badge"
-  />
-</div>
+<img
+  src="https://user-badge.committers.top/ethiopia/beka-birhanu.svg"
+  alt="committers.top badge"
+/>
 
 <div>
   <img
