@@ -1,5 +1,16 @@
+<div align="center">
+
 <h1 align="center">Hi there, I'm Beka Birhanu 👋</h1>
-<p align="left">I'm a Student Software Engineer 💻. I love working with websites. I am currently seeking opportunities to enhance technical skills and gain practical experience in the field. <em>I aspire to become a Machine Learning Engineer</em>.</p>
+ <div>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" height="100" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+a+Full-stack+Developer;I'm+looking+for+a+job;Competitive+Programmer;Optimization+'F R E A K '" alt="Typing Animation"></a>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" height="100"  />
+  </div>
+
+</div> 
+[![Linkedin: Beka](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamiru-alemnew/)](https://www.linkedin.com/in/beka-birhanu-atomsa/)
+[![LeetCode Beka](https://img.shields.io/badge/-Leetcode-FFA500?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/beka_birhanu/)
+<a href="https://codeforces.com/profile/beka-birhanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="beka-birhanu" height="30" width="40" /></a>
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
