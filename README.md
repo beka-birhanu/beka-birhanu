@@ -136,6 +136,16 @@
           />
         </a>
       </td>
+       <td align="center">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+            alt="docker"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
     </tr>
   </table>
   
@@ -157,8 +167,8 @@
       <td align="center">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-            alt="docker"
+            src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
+            alt="java"
             width="40"
             height="40"
           />
