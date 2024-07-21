@@ -129,14 +129,13 @@
           rel="noreferrer"
         >
           <img
-            src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg"
+            src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"
             alt="go"
             width="40"
             height="40"
           />
         </a>
       </td>
-      
     </tr>
   </table>
   
