@@ -117,8 +117,8 @@
           <img
             src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"
             alt="bash"
-            width="40"
-            height="60"
+            width="60"
+            height="40"
           />
         </a>
       </td>
