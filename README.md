@@ -146,6 +146,16 @@
           />
         </a>
       </td>
+        <td align="center">
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img
+            src=" https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"
+            alt="neovim"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
     </tr>
   </table>
   
