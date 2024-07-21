@@ -30,6 +30,7 @@
 <ul>
   <li>Data Structures and Algorithms</li>
   <li>Advanced C# ⭐</li>
+  <li>Advanced Go ⭐</li>
   <li>Design patterns</li>
 </ul>
 
