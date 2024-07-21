@@ -27,10 +27,10 @@
 
 <h3 align="center">🌱 I’m currently learning:</h3>
 <ul>
-  <li>Data Structures and Algorithms</li>
-  <li>Advanced C# ⭐</li>
-  <li>Advanced Go ⭐</li>
-  <li>Design patterns</li>
+  <li>          Data Structures and Algorithms</li>
+  <li>          Advanced C# ⭐</li>
+  <li>          Advanced Go ⭐</li>
+  <li>          Design patterns</li>
 </ul>
 
 <br />
