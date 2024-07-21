@@ -115,13 +115,28 @@
           rel="noreferrer"
         >
           <img
-            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
+            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"
             alt="bash"
             width="40"
             height="40"
           />
         </a>
       </td>
+      <td align="center">
+        <a
+          href="https://go.dev/learn/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img
+            src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg"
+            alt="go"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      
     </tr>
   </table>
   
