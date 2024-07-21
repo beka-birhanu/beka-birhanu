@@ -26,7 +26,7 @@
 
 <br />
 
-<h3 align="left">🌱 I’m currently learning:</h3>
+<h3 align="center">🌱 I’m currently learning:</h3>
 <ul>
   <li>Data Structures and Algorithms</li>
   <li>Advanced C# ⭐</li>
