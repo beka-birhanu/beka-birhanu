@@ -3,7 +3,6 @@
   I'm a Student Software Engineer 💻. I love working with websites. I am
   currently seeking opportunities to enhance technical skills and gain practical
   experience in the field.
-  <em>I aspire to become a Machine Learning Engineer</em>.
 </p>
 <div align="left">
   <a href="https://www.linkedin.com/in/beka-birhanu-atomsa/"
