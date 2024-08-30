@@ -48,26 +48,6 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp"
-            width="40"
-            height="40"
-          />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet"
-            width="40"
-            height="40"
-          />
-        </a>
-      </td>
-      <td align="center">
         <a href="https://typescriptlang.org">
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
@@ -222,6 +202,26 @@
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+            <td align="center">
+        <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+            alt="csharp"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+            alt="dotnet"
             width="40"
             height="40"
           />
