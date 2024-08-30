@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Beka Birhanu 👋</h1>
 <p align="left">
-  I'm a Student Software Engineer 💻. I love working with websites. I am
-  currently seeking opportunities to enhance technical skills and gain practical
-  experience in the field.
+I am a software engineering student at Addis Ababa University with a passion for learning.I love working on Websites,
+with a strong interest in back-end technologies.I am currently seeking an opportunity to gain hands-on experience in a
+company that values product quality and fosters professional growth.
 </p>
 <div align="left">
   <a href="https://www.linkedin.com/in/beka-birhanu-atomsa/"
@@ -27,7 +27,6 @@
 <h3 align="center">🌱 I’m currently learning:</h3>
 <ul>
   <li>          Data Structures and Algorithms</li>
-  <li>          Advanced C# ⭐</li>
   <li>          Advanced Go ⭐</li>
   <li>          Design patterns</li>
 </ul>
@@ -50,7 +49,7 @@
       <td align="center">
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
             alt="nodejs"
             width="40"
             height="40"
