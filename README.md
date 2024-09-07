@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Beka Birhanu 👋</h1>
+<h1 align="center">Hi there, I'm Beka Birhanu</h1>
 <p align="left">
 I am a software engineering student at Addis Ababa University with a passion for learning.I love working on Websites,
 with a strong interest in back-end technologies.I am currently seeking an opportunity to gain hands-on experience in a
