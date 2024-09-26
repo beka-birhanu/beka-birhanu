@@ -163,6 +163,16 @@ company that values product quality and fosters professional growth.
   <table>
     <tr>
       <td align="center">
+        <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+            alt="linux"
+            width="40"
+            height="40"
+          />
+        </a>
+      </td>
+        <td align="center">
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
